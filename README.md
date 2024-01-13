@@ -35,7 +35,7 @@ git clone https://github.com/your-username/XpressLine.git<br>
   <em>Install dependencies for the client and server.</em>
 <br>
 cd XpressLine/client<br>
-npm install<br>
+npm install --legacy-peer-deps<br>
 cd ../server<br>
 npm install<br>
 </li>
